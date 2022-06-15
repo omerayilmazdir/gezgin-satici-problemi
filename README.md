@@ -1,2 +1,4 @@
-# gezgin-satici-problemi
-Gezgin satıcı probleminin çözümü dijkstra algortiması ile C# Windows Form uygulaması olarak geliştirilmiştir.
+# GEZGİN SATICI PROBLEMİNİN ÇÖZÜMÜ
+
+* Gezgin satıcı probleminin çözümünü gerçekleştiren C# Windows Form uygulaması.
+Detaylı bilgi ve uygulama görüntüleri için **Rapor.pdf** dosyasını okuyunuz.
